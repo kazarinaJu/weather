@@ -10,5 +10,5 @@ Animated weather демонстрирует анимированный набо�
 
 Приложение поддерживает русскую и английскую локализацию.
 
-![ScreencastWeather](https://github.com/kazarinaJu/weather/blob/main/Weather/Resources/Assets.xcassets/snow.dataset/snow.MOV)
+![Screencast](https://github.com/kazarinaJu/weather/blob/main/snow.gif)
 

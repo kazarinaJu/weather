@@ -10,8 +10,14 @@ Animated weather демонстрирует анимированный набо�
 
 Приложение поддерживает русскую и английскую локализацию.
 
-<p align="center">
+Загрузка рандомного явления, подскроливание к выбранной ячейке
+<p align="left">
   <img src="https://github.com/kazarinaJu/weather/blob/main/snow.gif?raw=true" width="400" alt="Demo GIF">
+</p>
+
+Переключение явлений
+<p align="left">
+  <img src="https://github.com/kazarinaJu/weather/blob/main/weather.gif?raw=true" width="400" alt="Demo GIF">
 </p>
 
 

@@ -12,12 +12,12 @@ Animated weather демонстрирует анимированный набо�
 
 Первая загрузка случайного явления и скрол к его ячейке
 <p align="left">
-  <img src="https://github.com/kazarinaJu/weather/blob/main/snow.gif?raw=true" width="400" alt="Demo GIF">
+  <img src="https://github.com/kazarinaJu/weather/blob/main/snow.gif?raw=true" width="200" height="434" alt="Demo GIF">
 </p>
 
 Переключение явлений
 <p align="left">
-  <img src="https://github.com/kazarinaJu/weather/blob/main/weather.gif?raw=true" width="400" alt="Demo GIF">
+  <img src="https://github.com/kazarinaJu/weather/blob/main/weather.gif?raw=true" width="200" height="434" alt="Demo GIF">
 </p>
 
 
